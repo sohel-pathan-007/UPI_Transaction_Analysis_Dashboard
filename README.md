@@ -10,7 +10,7 @@ Python → SQL → Power BI
    
 The objective was to clean data, perform analysis, identify business insights, and build an interactive dashboard.
 
-Note: The dataset is synthetic and created for learning, analysis, and practice purposes. 
+**Note**: The dataset is synthetic and created for learning, analysis, and practice purposes. 
 
 🛠️ Tools & Technologies 
 
