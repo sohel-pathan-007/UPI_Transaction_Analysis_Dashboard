@@ -13,10 +13,11 @@ The objective was to clean data, perform analysis, identify business insights, a
 **Note**: The dataset is synthetic and created for learning, analysis, and practice purposes. 
 
 **🛠️ Tools & Technologies**
-• Python: Pandas, NumPy, Matplotlib, Jupyter Notebook 
-• SQL: MySQL, CTEs, Subqueries, JOINs, CASE WHEN, Window Functions, Views, Indexes, EXPLAIN 
-• Power BI: Power Query, DAX, KPI Cards, Slicers, Charts, Heatmap 
-• Git & GitHub 
+
+• Python: Pandas, NumPy, Matplotlib, Jupyter Notebook.
+• SQL: MySQL, CTEs, Subqueries, JOINs, CASE WHEN, Window Functions, Views, Indexes, EXPLAIN. 
+• Power BI: Power Query, DAX, KPI Cards, Slicers, Charts, Heatmap.
+• Git & GitHub.
 
 📊 Dataset 
 • 50,000 rows 
