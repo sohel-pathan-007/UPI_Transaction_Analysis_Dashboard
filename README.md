@@ -8,7 +8,7 @@ Analyzed 50,000 synthetic UPI transaction records using Python, MySQL, and Power
 
 Python → SQL → Power BI
    
-The objective was to clean data, perform analysis, identify business insights, and build an interactive dashboard.
+• The objective was to clean data, perform analysis, identify business insights, and build an interactive dashboard.
 
 **Note**: The dataset is synthetic and created for learning, analysis, and practice purposes. 
 
@@ -17,15 +17,20 @@ The objective was to clean data, perform analysis, identify business insights, a
 • Python: Pandas, NumPy, Matplotlib, Jupyter Notebook.
 
 • SQL: MySQL, CTEs, Subqueries, JOINs, CASE WHEN, Window Functions, Views, Indexes, EXPLAIN. 
+
 • Power BI: Power Query, DAX, KPI Cards, Slicers, Charts, Heatmap.
+
 • Git & GitHub.
 
-📊 Dataset 
-• 50,000 rows 
-• 22 original columns 
-• 26 columns after feature engineering 
+**📊 Dataset**
 
-Feature Engineering: Hour, Day, Month, Amount_Category 
+• 50,000 rows. 
+
+• 22 original columns. 
+
+• 26 columns after feature engineering. 
+
+• **Feature Engineering**: Hour, Day, Month, Amount_Category 
 
 🐍 Python 
 • Data loading and understanding 
