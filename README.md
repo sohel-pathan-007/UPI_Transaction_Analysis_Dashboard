@@ -82,5 +82,6 @@ Slicers: City, Gender, Merchant Category, Merchant Name
 
 Visuals: Daily Amount, State-wise, Bank-wise, UPI App-wise, Status, Transaction Type, Hour-wise, Day-wise, and Day × Hour Heatmap. 
 
-💡 Skills Demonstrated 
+**💡 Skills Demonstrated**
+
 Python | Pandas | NumPy | SQL | MySQL | Power BI | Power Query | DAX | Data Cleaning | Data Analysis | Data Visualization | Business Intelligence
