@@ -32,33 +32,54 @@ Python → SQL → Power BI
 
 • **Feature Engineering**: Hour, Day, Month, Amount_Category 
 
-🐍 Python 
+**🐍 Python**
+
 • Data loading and understanding 
+
 • Data cleaning and validation 
+
 • Missing value and duplicate checks 
+
 • Date & time transformation 
+
 • Feature engineering 
+
 • Statistical and business analysis 
+
 • Data visualization 
+
 • Cleaned data export 
 
-🗄️ SQL 
+**🗄️ SQL** 
+
 • State-wise and merchant analysis 
+
 • Top 5 analysis 
+
 • CTEs and subqueries 
+
 • GROUP BY / HAVING 
+
 • CASE WHEN 
+
 • JOINs 
+
 • Window functions 
+
 • Running totals 
+
 • Views and indexes 
+
 • EXPLAIN 
+
 • data quality checks 
 
-📈 Power BI Created an interactive dashboard with:
+**📈 Power BI Created an interactive dashboard with:**
 
 KPIs: Total Transactions, Total Amount, Total Cashback, Success Rate, Suspected Fraud 
+
 Slicers: City, Gender, Merchant Category, Merchant Name 
+
 Visuals: Daily Amount, State-wise, Bank-wise, UPI App-wise, Status, Transaction Type, Hour-wise, Day-wise, and Day × Hour Heatmap. 
 
 💡 Skills Demonstrated 
