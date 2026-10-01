@@ -1,11 +1,10 @@
-UPI Transaction Analytics & Power BI Dashboard 
+**UPI Transaction Analytics & Power BI Dashboard**
 
-📌 Project Overview 
+**📌 Project Overview**
 
 Analyzed 50,000 synthetic UPI transaction records using Python, MySQL, and Power BI.
 
 Workflow: Python → SQL → Power BI
-
 The objective was to clean data, perform analysis, identify business insights, and build an interactive dashboard.
 
 Note: The dataset is synthetic and created for learning, analysis, and practice purposes. 
