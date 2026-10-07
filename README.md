@@ -15,7 +15,6 @@ Python → SQL → Power BI
 **🛠️ Tools & Technologies**
 
 • Python: Pandas, NumPy, Matplotlib, Jupyter Notebook.
-
 • SQL: MySQL, CTEs, Subqueries, JOINs, CASE WHEN, Window Functions, Views, Indexes, EXPLAIN. 
 
 • Power BI: Power Query, DAX, KPI Cards, Slicers, Charts, Heatmap.
